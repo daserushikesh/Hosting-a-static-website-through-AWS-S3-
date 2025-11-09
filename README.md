@@ -116,4 +116,11 @@ https://potfolowebsidedase.s3.us-east-1.amazonaws.com/index.html
 ---
 
 ## Final notes
-- You now have a publicly accessible static website hosted on S3. For production use consider CloudFront for HTTPS, caching, and custom domain support.
+- after all this stuff if you think You now have a publicly accessible static website hosted on S3 yes it is.
+
+  ## Author
+**Rushikesh Dase**  
+Cloud Computing Enthusiast | AWS Learner  
+📧 daserushikesh@gmail.com  
+🔗 https://www.linkedin.com/in/rushi-dase  
+**Category:** | AWS | Cloud Computing | EC2 | VPC | Load Balancing | RDS | S3 |
